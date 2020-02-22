@@ -1,7 +1,7 @@
 {
-  "name": "peptyde",
+  "name": "Sample",
   "version": "1.0.0",
-  "description": "Peptyde Lab Inventory Manager",
+  "description": "Sample Boiler Plate",
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js",
