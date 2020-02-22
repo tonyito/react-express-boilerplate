@@ -1,2 +1,2 @@
-# peptyde
-Peptyde Lab Inventory Manager
+# boilerplate
+Sample Boilerplate
