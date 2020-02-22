@@ -21,9 +21,9 @@
   "author": "Tony Ito-Cole",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tonyito/peptyde/issues"
+    "url": "https://github.com/tonyito/"
   },
-  "homepage": "https://github.com/tonyito/peptyde#readme",
+  "homepage": "https://github.com/tonyito/",
   "dependencies": {
     "axios": "^0.19.2",
     "body-parser": "^1.18.3",
