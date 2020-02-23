@@ -29,7 +29,8 @@ module.exports = {
 
     inline: true,
 
-    headers: { 'Access-Control-Allow-Origin': '*' },
+    //THIS MAY MAKE MONGOOSE
+    // headers: { 'Access-Control-Allow-Origin': '*' },
     /**
      * proxy is required in order to make api calls to
      * express server while using hot-reload webpack server

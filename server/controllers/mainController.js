@@ -1,4 +1,4 @@
-const models = require('../models/peptydeModels');
+const models = require('../models/mainModels');
 
 const mainController = {};
 

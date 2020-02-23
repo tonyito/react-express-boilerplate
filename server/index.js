@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(DIST_DIR));
 
 
-app.use('/api', apiRouter);
+app.use('/chatRoute', chatRouter);
 
 
 app.get('/', (req, res) => {
